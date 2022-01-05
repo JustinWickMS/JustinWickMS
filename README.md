@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustinWickMS
 - 👀 I’m interested in Machine Learning, High-Performance Computing, Functional Programming
-- 🌱 I’m currently learning F#
+- 🌱 I’m currently learning advanced F# techniques
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: justin.wick@nuance.com
 
